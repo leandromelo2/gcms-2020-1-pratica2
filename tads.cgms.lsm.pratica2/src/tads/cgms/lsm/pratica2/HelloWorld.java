@@ -6,7 +6,7 @@ public class HelloWorld {
 		System.out.println("Oĺa Mundo!");
 		System.out.println("teste com git!!!");
 		 int i = 0;
-		    while (i < 5) {
+		    while (i < 10) {
 		      System.out.println(i);
 		      i++;
 
