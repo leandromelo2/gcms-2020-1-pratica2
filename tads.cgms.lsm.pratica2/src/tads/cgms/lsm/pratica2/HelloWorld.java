@@ -10,6 +10,9 @@ public class HelloWorld {
 		System.out.println(" CGMS - pratica 3 - master");
 		System.out.println(" CGMS - pratica 3 - master");
 		System.out.println(" CGMS - pratica 3 - master");
+		System.out.println(" CGMS - pratica 3 - master");
+		System.out.println(" CGMS - pratica 3 - master");
+		System.out.println(" CGMS - pratica 3 - master");
 		 int i = 0;
 		    while (i < 30) {
 		      System.out.println(i);
