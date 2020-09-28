@@ -7,9 +7,11 @@ public class HelloWorld {
 		System.out.println("gcms -git pratica2");
 		System.out.println("meu repositorio");
 		
-		System.out.println("!!!");
+		System.out.println(" CGMS - pratica 3 - master");
+		System.out.println(" CGMS - pratica 3 - master");
+		System.out.println(" CGMS - pratica 3 - master");
 		 int i = 0;
-		    while (i < 10) {
+		    while (i < 30) {
 		      System.out.println(i);
 		      i++;
 
