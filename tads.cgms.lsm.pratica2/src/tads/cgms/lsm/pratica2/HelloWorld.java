@@ -16,11 +16,12 @@ public class HelloWorld {
 		System.out.println("GCMS - pratica 3");
 		System.out.println("branch hotfix");
 		System.out.println("passo 2 - commit na brach hotfix");
+        System.out.println("commit BASH");
 
 
 		 int i = 0;
 
-		    while (i < 27) {
+		    while (i < 21) {
 		      System.out.println(i);
 		      i++;
 
