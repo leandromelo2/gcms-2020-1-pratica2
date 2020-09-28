@@ -9,10 +9,11 @@ public class HelloWorld {
 		System.out.println("meu repositorio");
 		
 		System.out.println("GCMS - pratica 3");
-		System.out.println("pratica 3");
 		System.out.println("branch hotfix");
+		System.out.println("passo 2 - commit na brach hotfix");
+
 		 int i = 0;
-		    while (i < 10) {
+		    while (i < 15) {
 		      System.out.println(i);
 		      i++;
 
