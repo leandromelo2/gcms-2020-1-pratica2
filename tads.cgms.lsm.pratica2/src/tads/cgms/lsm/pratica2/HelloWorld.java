@@ -16,7 +16,7 @@ public class HelloWorld {
 		System.out.println("GCMS - pratica 3");
 		System.out.println("branch hotfix");
 		System.out.println("passo 2 - commit na brach hotfix");
-        System.out.println("commit");
+        System.out.println("commit2");
 
 
 		 int i = 0;
